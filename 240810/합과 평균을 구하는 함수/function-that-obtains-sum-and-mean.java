@@ -1,9 +1,6 @@
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         float a, b, c;
-
         Scanner scanner = new Scanner(System.in);
         a = scanner.nextFloat();
         b = scanner.nextFloat();
