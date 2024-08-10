@@ -8,6 +8,7 @@ public class Main {
         a = scanner.nextInt();
         b = scanner.nextInt();
         c = scanner.nextInt();
+        scanner.close();
         int[] inputs = {a,b,c};
 
         for (int i = 0; i < inputs.length; i++) {
