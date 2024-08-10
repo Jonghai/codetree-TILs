@@ -18,6 +18,7 @@ public class Main {
                 System.out.print((value * 3) - 20 + " ");
             }
         }
+        scanner.close();
     }
 
 
